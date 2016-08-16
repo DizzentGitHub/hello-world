@@ -1,2 +1,3 @@
 # hello-world
-following tutorial // new to github
+
+Honestly just testing out GitHub.
